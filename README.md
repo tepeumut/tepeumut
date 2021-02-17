@@ -3,12 +3,3 @@
 </div>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tepeumut&count_private=true&show_icons=true&hide_title=true&hide=stars" />
-
-<br>
-
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=tepeumut&theme=flat&no-frame=true&margin-w=30" />
-</div>
-
-<!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
-![](https://hit.yhype.me/github/profile?user_id=46970457)
