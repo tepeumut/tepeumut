@@ -5,7 +5,7 @@
 - 📫 How to reach me: https://t.me/tepeumut
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=tepeumut&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=tepeumut&show_icons=true&theme=vue-dark)
 
 ### Spotify Playing 🎧
 
