@@ -4,15 +4,16 @@
 - 📫 How to reach me: https://t.me/tepeumut
 
 
-
-
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=tepeumut&show_icons=true&theme=vue-dark)
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-tepeumut.vercel.app/api/spotify-playing" alt="tepeumut Spotify Playing" width="350" />](https://open.spotify.com/user/11184563810)
 
-📊 **This week I spent my time on**
+
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/tepeumut/tepeumut/main/giphy.webp" width="400" height="320" />
+📊 **This week I spent my time on*0
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=tepeumut&hide_title=true&hide_border=true&langs_count=5)
 
