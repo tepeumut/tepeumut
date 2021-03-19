@@ -93,6 +93,6 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
                 alt="vuejs" width="40" height="40"/> </a>
     </p>
-<p align="center">
-        <img alt="ViewCount" src="https://views.whatilearened.today/views/github/tepeumut/tepeumut.svg" />
+<p align="left">
+        <img alt="ViewCount" height="50" src="https://views.whatilearened.today/views/github/tepeumut/tepeumut.svg" />
 </p>
