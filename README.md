@@ -95,5 +95,5 @@
                 alt="vuejs" width="40" height="40"/> </a>
     </p>
 <p align="left">
-        <img alt="ViewCount" height="25" src="https://views.whatilearened.today/views/github/tepeumut/tepeumut.svg" />
+        <img alt="ViewCount" height="20" src="https://views.whatilearened.today/views/github/tepeumut/tepeumut.svg" />
 </p>
