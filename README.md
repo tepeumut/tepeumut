@@ -1,6 +1,6 @@
 # Hi there, I'm Umut <a href="https://www.gautamkrishnar.com/" target="blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<I>"The present is theirs; the future, for which I really worked, is mine." - Nikola Tesla</I>
+## "The present is theirs; the future, for which I really worked, is mine." - Nikola Tesla
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Dart
