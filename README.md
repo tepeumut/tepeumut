@@ -9,6 +9,8 @@
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=tepeumut&show_icons=true&theme=vue-dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tepeumut&layout=compact)
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-tepeumut.vercel.app/api/spotify-playing" alt="tepeumut Spotify Playing" width="350" />](https://open.spotify.com/user/11184563810)
