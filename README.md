@@ -9,15 +9,11 @@
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=tepeumut&show_icons=true&theme=vue-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tepeumut&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tepeumut&layout=compact&theme=vue-dark)
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-tepeumut.vercel.app/api/spotify-playing" alt="tepeumut Spotify Playing" width="350" />](https://open.spotify.com/user/11184563810)
-
-📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=tepeumut&hide_title=true&hide_border=true&langs_count=5)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
