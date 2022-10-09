@@ -24,7 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tepeumut&show_icons=true&locale=en" alt="tepeumut" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tepeumut&" alt="tepeumut" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tepeumut&" alt="tepeumut" /></p>
 
 ### Spotify Playing 🎧
 
