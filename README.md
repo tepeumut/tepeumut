@@ -22,7 +22,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tepeumut&show_icons=true&locale=en&layout=compact&count_private=true" alt="tepeumut" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tepeumut&show_icons=true&locale=en&include_all_commits=true" alt="tepeumut" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tepeumut&show_icons=true&count_private=true&locale=en&include_all_commits=true" alt="tepeumut" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tepeumut&" alt="tepeumut" /></p>
 
