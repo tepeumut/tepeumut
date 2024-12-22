@@ -29,11 +29,7 @@ const umut = {
   location: "Istanbul, Turkey",
   status: "Available for work",
   experience: "5+ years",
-  specialization: ["Full Stack Development", "Blockchain"],
-  currentProjects: {
-    cryptoTradingBot: "Automated trading system for cryptocurrency markets",
-    mobileWalletApp: "Secure cryptocurrency wallet with multi-chain support"
-  }
+  specialization: ["Full Stack Development", "Blockchain"]
 }
 ```
 
